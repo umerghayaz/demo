@@ -130,7 +130,7 @@ Cross functional expertise and well-balanced seniority are ensuring a high reput
       <img 
         src={teamsectionimage} 
         alt="Background"
-        className="w-full h-[800px] object-cover"
+        className="w-full h-[400px] object-cover"
         />
     </div>
   </motion.section>
